@@ -1,0 +1,3 @@
+PassengerId,Survived,Pclass,Age,SibSp,Parch,Fare,Sex_male,Embarked_q,Embarked_s,Deck_B,Deck_C,Deck_D,Deck_E,Deck_F,Deck_G,Deck_T,Deck_Unknown
+1,0,3,-0.5348911628688886,0.4327933656785018,-0.4736736092984604,-0.5641087873940193,True,False,True,False,False,False,False,False,False,False,True
+2,1,1,0.6683917564561223,0.4327933656785018,-0.4736736092984604,0.9425480546638041,False,False,False,False,True,False,False,False,False,False,False
