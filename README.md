@@ -1,4 +1,11 @@
 # Titanic Survival Prediction with Feature Engineering and Model Stacking
+<p align="center">
+  <a href="https://youtu.be/lbJZueex-NQ?si=TCNnxzdHKLXPZLbp">
+    <img src="https://img.youtube.com/vi/lbJZueex-NQ/maxresdefault.jpg" alt="Titanic Stacking Ensemble Model Video">
+  </a>
+  <br/>
+  <em>Click the thumbnail to watch on YouTube</em>
+</p>
 
 ## Project Overview
 
